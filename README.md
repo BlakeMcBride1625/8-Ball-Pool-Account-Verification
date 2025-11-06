@@ -47,7 +47,7 @@ wget https://github.com/naptha/tesseract.js-core/raw/master/tesseract-core.wasm.
 
 **Note:** The `eng.traineddata` file (~5MB) is not included in the repository due to size. You need to download it separately and place it in the project root.
 
-3. Set up environment variables:
+4. Set up environment variables:
 ```bash
 cp .env.example .env
 ```
@@ -65,7 +65,7 @@ GUILD_ID=your_guild_id_optional_for_faster_slash_command_registration
 EXAMPLE_IMAGE_URL=https://example.com/path/to/example-profile-screenshot.png
 ```
 
-4. Set up the database:
+5. Set up the database:
 ```bash
 # Generate Prisma client
 npm run prisma:generate
@@ -74,12 +74,12 @@ npm run prisma:generate
 npm run prisma:migrate
 ```
 
-5. Build the project:
+6. Build the project:
 ```bash
 npm run build
 ```
 
-6. Start the bot:
+7. Start the bot:
 ```bash
 npm start
 ```
