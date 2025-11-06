@@ -36,6 +36,3 @@ assets/images/*.jpg
 assets/images/*.jpeg
 !assets/images/README.md
 
-# Large OCR training data (should be downloaded separately)
-eng.traineddata
-
