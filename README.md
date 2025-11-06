@@ -36,18 +36,7 @@ cd 8BPAccountChecker
 npm install
 ```
 
-3. Download OCR training data:
-```bash
-# Download the English training data for Tesseract.js
-# This file is required for OCR to work
-wget https://github.com/naptha/tesseract.js-core/raw/master/tesseract-core.wasm.js
-# Or download eng.traineddata from: https://github.com/naptha/tesseract.js-core/tree/master/traineddata
-# Place eng.traineddata in the project root directory
-```
-
-**Note:** The `eng.traineddata` file (~5MB) is not included in the repository due to size. You need to download it separately and place it in the project root.
-
-4. Set up environment variables:
+3. Set up environment variables:
 ```bash
 cp .env.example .env
 ```
@@ -65,7 +54,7 @@ GUILD_ID=your_guild_id_optional_for_faster_slash_command_registration
 EXAMPLE_IMAGE_URL=https://example.com/path/to/example-profile-screenshot.png
 ```
 
-5. Set up the database:
+4. Set up the database:
 ```bash
 # Generate Prisma client
 npm run prisma:generate
@@ -74,12 +63,12 @@ npm run prisma:generate
 npm run prisma:migrate
 ```
 
-6. Build the project:
+5. Build the project:
 ```bash
 npm run build
 ```
 
-7. Start the bot:
+6. Start the bot:
 ```bash
 npm start
 ```
