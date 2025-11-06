@@ -1,0 +1,147 @@
+[
+  {
+    "role_id": "1436020003244867827",
+    "rank_name": "Beginner",
+    "level_min": 1,
+    "level_max": 2
+  },
+  {
+    "role_id": "1436020138720755844",
+    "rank_name": "Trainee",
+    "level_min": 3,
+    "level_max": 5
+  },
+  {
+    "role_id": "1436020590757548093",
+    "rank_name": "Amateur",
+    "level_min": 6,
+    "level_max": 9
+  },
+  {
+    "role_id": "1436020726388883668",
+    "rank_name": "Hustler",
+    "level_min": 10,
+    "level_max": 14
+  },
+  {
+    "role_id": "1436020817044439080",
+    "rank_name": "Hotshot",
+    "level_min": 15,
+    "level_max": 20
+  },
+  {
+    "role_id": "1436020890163744819",
+    "rank_name": "Virtuoso",
+    "level_min": 21,
+    "level_max": 27
+  },
+  {
+    "role_id": "1436021015179165756",
+    "rank_name": "Expert",
+    "level_min": 28,
+    "level_max": 35
+  },
+  {
+    "role_id": "1436021138080661565",
+    "rank_name": "Veteran",
+    "level_min": 36,
+    "level_max": 44
+  },
+  {
+    "role_id": "1436021244079112374",
+    "rank_name": "Semi-Pro",
+    "level_min": 45,
+    "level_max": 54
+  },
+  {
+    "role_id": "1436021363092619314",
+    "rank_name": "Professional",
+    "level_min": 55,
+    "level_max": 65
+  },
+  {
+    "role_id": "1436021483343314974",
+    "rank_name": "Master",
+    "level_min": 66,
+    "level_max": 77
+  },
+  {
+    "role_id": "1436021589157085355",
+    "rank_name": "Champ",
+    "level_min": 78,
+    "level_max": 90
+  },
+  {
+    "role_id": "1436021684485357689",
+    "rank_name": "Superstar",
+    "level_min": 91,
+    "level_max": 104
+  },
+  {
+    "role_id": "1436021763052933130",
+    "rank_name": "Hero",
+    "level_min": 105,
+    "level_max": 119
+  },
+  {
+    "role_id": "1436021839817347194",
+    "rank_name": "Legend",
+    "level_min": 120,
+    "level_max": 136
+  },
+  {
+    "role_id": "1436021953462014134",
+    "rank_name": "Immortal",
+    "level_min": 137,
+    "level_max": 150
+  },
+  {
+    "role_id": "1436022036928532603",
+    "rank_name": "Emperor",
+    "level_min": 151,
+    "level_max": 162
+  },
+  {
+    "role_id": "1436022138766102690",
+    "rank_name": "High Emperor",
+    "level_min": 163,
+    "level_max": 201
+  },
+  {
+    "role_id": "1436022236598239272",
+    "rank_name": "High Sovereign",
+    "level_min": 202,
+    "level_max": 260
+  },
+  {
+    "role_id": "1436022347885707385",
+    "rank_name": "Grand Sovereign",
+    "level_min": 261,
+    "level_max": 349
+  },
+  {
+    "role_id": "1436022471672463421",
+    "rank_name": "Grand Overlord",
+    "level_min": 350,
+    "level_max": 483
+  },
+  {
+    "role_id": "1436022685288239216",
+    "rank_name": "Galactic Overlord",
+    "level_min": 484,
+    "level_max": 683
+  },
+  {
+    "role_id": "1436022832457846876",
+    "rank_name": "Universal Overlord",
+    "level_min": 684,
+    "level_max": 998
+  },
+  {
+    "role_id": "1436022976481857536",
+    "rank_name": "Supreme Being",
+    "level_min": 999,
+    "level_max": 999
+  }
+]
+

@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/*.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Prisma
+prisma/migrations/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Assets (keep folder structure but ignore images)
+assets/images/*.png
+assets/images/*.jpg
+assets/images/*.jpeg
+!assets/images/README.md
+
